@@ -7,6 +7,10 @@
 
 
 # C++ Web Framework (CWF)
+​my new fork ; currently added features:
+1-gzip compresser for response
+2-fix http chunked contnet lenth present error (fixed by removing content lenth from header in chunked transfer-encoding)
+
 
 
 
